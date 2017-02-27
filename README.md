@@ -6,3 +6,6 @@
 node bugs.js
 ```
 ![](https://raw.githubusercontent.com/Kevalin/fangjia/master/imgs/bugs.png)
+
+## mongodb记录的数据
+![](https://raw.githubusercontent.com/Kevalin/fangjia/master/imgs/mongodb.png)
